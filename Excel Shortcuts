@@ -19,6 +19,7 @@ myexcelonline's 333 excel shortcuts
 - Applying or Removing Underline formatting: CTRL + U
 
 - Applying Outline Border to cells: CTRL + SHIFT + &
+- Remove outline border to selected cells: CTRL + SHIFT + _
 
 - Applying Percentage format: CTRL + SHIFT + %
 
@@ -26,9 +27,41 @@ myexcelonline's 333 excel shortcuts
 
 - Applying time format: CTRL + SHIFT + @
 
-- Check Spelling: F7
-- Copy formula from above cell: CTRL + '
 - Copy selected cells: CTRL + C
+- Paste selected cells: CTRL + V
+- Cut selected cells: CTRL + X
+
+- Check Spelling: F7
+
+- Edit Active cell: F2
+
+- Enter Current Date: CTRL + ;
+- Enter Current Time: CTRL + SHIFT + ;
+
+- Copy formula from above cell: CTRL + '
+- Fill down from cell above: CTRL + D
+- Fill right from cell left: CTRL + R
+
+- Format font in Format Cells dialog box: CTRL + SHIFT + F
+
+- Display Quick Analysis options: CTRL + Q
+
+- Insert a note: SHIFT + F2
+- Insert threaded comment: CTRL + SHIFT + F2
+- Open and Edit comment: SHIFT + F2
+- Open and reply to threaded comment: CTRL + SHIFT + F2
+
+- Open Insert dialog box to insert cells: CTRL + SHIFT + +
+- Open Delete dialog box to delete cells: CTRL + -
+- Open Format cells dialog box: CTRL + 1
+- Open Paste Special dialog box: CTRL + ALT + V
+- Open Insert Hyperlink dialog box: CTRL + K
+
+- Insert a Table: CTRL + T
+- Show or Hide objects: CTRL + 6
+- Show or Hide outline symbols: CTRL + 8
+
+
 
 
 
