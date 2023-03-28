@@ -60,6 +60,48 @@ myexcelonline's 333 excel shortcuts
 - Insert a Table: CTRL + T
 - Show or Hide objects: CTRL + 6
 - Show or Hide outline symbols: CTRL + 8
+- Toggle Formula On & Off: CTRL + `
+
+
+
+/ Drag and Drop shortcuts /
+
+- Drag & Copy: CTRL + drag
+- Drag & Cut: drag
+- Drag & Insert: SHIFT + drag
+- Drag & Insert Copy: CTRL + SHIFT + drag
+
+- Drag to duplicate the worksheet: CTRL + drag
+- Drag selection to worksheet: ALT + drag
+
+
+
+/ Working with Formulas Shortcuts /
+
+- Autosum selection of cells: ALT + =
+- Calculate active worksheet: SHIFT + F9
+- Cancel entry in formula bar: ESC
+- Complete entry in formula bar: ENTER
+- Copy value from above cell: CTRL + SHIFT + "
+- Create chart in a new sheet: F11
+- Create embedded chart: ALT + F1
+- Define names for reference: CTRL + F3
+- Display function arguments dialog box: CTRL + A
+- Display message for error checking button: ALT + SHIFT + F10
+- Expand or Collapse formula bar: CTRL + SHIFT + U
+- Force calculate all worksheets: CTRL + ALT + F9
+- Input array formula: CTRL + SHIFT + Enter
+- Insert a Function: SHIFT + F3
+- Insert Function Arguments: CTRL + SHIFT + A
+- Invoke Flash Fill: CTRL + E
+- Move to end of text when in the formula bar: CTRL + END
+- Select text in formula bar to end: CTRL + SHIFT + END
+- Open Macro dialog box: ALT + F8
+- Open Visual Basic for Applications (VBA) editor: ALT + F11
+
+
+
+/ Macro and VBA Shortcuts /
 
 
 
