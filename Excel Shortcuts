@@ -18,8 +18,12 @@ myexcelonline's 333 excel shortcuts
 
 - Applying or Removing Underline formatting: CTRL + U
 
+- Center align cell contents: ALT + H + A + C
+
 - Applying Outline Border to cells: CTRL + SHIFT + &
 - Remove outline border to selected cells: CTRL + SHIFT + _
+
+- Add or remove Filters: CTRL + SHIFT + L
 
 - Applying Percentage format: CTRL + SHIFT + %
 
@@ -103,6 +107,12 @@ myexcelonline's 333 excel shortcuts
 
 / Macro and VBA Shortcuts /
 
+- Autocomplete code: CTRL + space
+- Delete line of code: CTRL + Y
+- Open Intellisense dropdown: CTRL + J
+- Redo last action: ALT + E + R
+- Show quick info: CTRL + I
+- Step through code: F8
 
 
 
